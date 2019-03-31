@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
-define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
-define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('APIKEY', 'AIzaSyDI-5DFPTo0iUARMyjbwkqiiUBbWfjy0W8');
+define('GJ_CODE', 'HK');
+define('SITE_NAME', 'Panda Youtube');
+define('TITLENAME', 'Panda Youtube');
+define('EN2DEKEY', '32123wwerwer323tgfdgds222');
+define('EMAIL', '79117112@qq.com');
+define('NAME', 'panda');
+define('PASSWORD', '79117112');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
